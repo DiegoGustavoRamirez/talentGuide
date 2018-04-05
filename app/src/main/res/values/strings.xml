@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">talentGuide</string>
+    <string name="strNavigationDrawerOpen">Open navigation drawer</string>
+    <string name="strNavigationDrawerClose">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

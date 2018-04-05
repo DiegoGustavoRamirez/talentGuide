@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/navDrawerPreferences"
+            android:title="Preferencias"
+            android:icon="@mipmap/ic_preferences">
+        </item>
+
+        <item
+            android:id="@+id/navDrawerMap"
+            android:title="Estadisticas"
+            android:icon="@mipmap/ic_stats">
+        </item>
+
+    </group>
+
+</menu>
